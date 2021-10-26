@@ -10,7 +10,7 @@ int main(void)
     }
     
     //SUM[N]={0};           qing思考这个为什么不行
-    //第三次git提交测试改动注释
+    //第3次git提交测试改动注释
     int school,score,maxNumber,maxschool;
     maxschool = 1,maxNumber=1;
     for (int i = 0; i < N; i++)
